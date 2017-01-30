@@ -1,0 +1,8 @@
+versioning :
+		nagresume.doc 
+
+u want to modify the resume and keep deveops 
+		nagresume1.doc 
+
+		modify openstack 
+		copy nagresumeos.doc 
